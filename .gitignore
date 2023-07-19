@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 # personal api constants
-/lib/constants/api_secret_constants
+lib/constants/api_secret_constants
