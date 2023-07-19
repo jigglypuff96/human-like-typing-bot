@@ -45,3 +45,5 @@ app.*.map.json
 
 # personal api constants
 lib/constants/api_secret_constants.dart
+lib/constants/api_secret_constants
+
